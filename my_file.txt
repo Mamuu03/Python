@@ -1,0 +1,6 @@
+This is my text file in write mode
+You can write anything numbers or strings
+Counting numbers 123. Alphabetical letters ABC.
+This is an append mode.
+I have added 3 more lines to my previous file
+Now I have a total of 6 lines. Lets see the output
